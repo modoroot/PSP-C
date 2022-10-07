@@ -1,0 +1,4 @@
+total 24
+-rwxrwxr-x 1 amna amna 19432 sep 27 10:29 ejemplo1
+-rw-rw-r-- 1 amna amna   557 sep 27 10:29 ejemplo1.c
+-rw-rw-r-- 1 amna amna     0 sep 27 10:29 salida.txt
